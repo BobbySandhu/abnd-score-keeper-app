@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="host_guest_margin_40">40dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="host_guest_text_size_22">22sp</dimen>
+    <dimen name="guest_section_margin_36">36dp</dimen>
+    <dimen name="score_text_size">70sp</dimen>
+    <dimen name="sparator_size_60">60sp</dimen>
+    <dimen name="timer_text_size">30sp</dimen>
+    <dimen name="margin_divider_20">20dp</dimen>
+    <dimen name="extra_point_width">50dp</dimen>
+    <dimen name="reset_button_size">40dp</dimen>
+    <dimen name="reset_button_top_margin">20dp</dimen>
+</resources>

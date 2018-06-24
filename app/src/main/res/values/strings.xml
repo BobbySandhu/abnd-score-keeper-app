@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pro Football</string>
+    <string name="host">Host</string>
+    <string name="guest">Guest</string>
+    <string name="content_desc_reset_button">reset button</string>
+    <string name="default_0">0</string>
+    <string name="score_separator">-</string>
+    <string name="default_timer_text">00 : 00</string>
+    <string name="point_6">+6</string>
+    <string name="text_touch_down">Touchdown</string>
+    <string name="point_3">+3</string>
+    <string name="text_field_goal">Field Goal</string>
+    <string name="point_2">+2</string>
+    <string name="text_safety">Safety</string>
+    <string name="text_extra">Extra</string>
+    <string name="point_1">+1</string>
+</resources>
